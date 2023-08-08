@@ -1,36 +1,45 @@
-👋 Hey there, I'm Naphzterjones - a frontend developer who's passionate about creating exceptional user experiences. From eye-catching designs to blazing-fast websites, I'm dedicated to delivering the best possible experience for users.
+<!-- Introduction -->
+# Hi there, I'm Jonas but you can call me Naphz 👋
 
-👀 I'm fascinated by the art and science of frontend development. There's something magical about bringing a design to life, and I love every aspect of the process - from the initial wireframes to the final lines of code. I'm always on the lookout for new ways to push the limits of what's possible in frontend development.
+Welcome to my colorful corner of GitHub! I'm a passionate Frontend Developer with a love for creative coding and innovative web design.
 
-🌱 Currently, I'm deep-diving into the world of React and Vue.js, exploring their unique features and capabilities. I'm also studying the latest UI/UX design trends to stay on top of the latest best practices and ensure that my designs are as intuitive and user-friendly as possible.
+![Developer GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-💞️ I'm passionate about collaborating with other frontend developers to create amazing projects that make a real impact. Whether it's a personal project or a professional endeavor, I believe that the power of collaboration can take us to new heights. So, if you're looking for a dedicated, driven, and creative frontend developer to collaborate with, I'd love to hear from you.
+<!-- About Me -->
+- 🔭 I’m currently crafting delightful experiences with React and CSS animations.
+- 🌱 I’m on a journey to master design systems and create pixel-perfect UIs.
+- 🚀 I’m seeking collaborations on projects that challenge the status quo.
+- 💬 Let's chat about responsive design and all things JavaScript!
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/jonas-bingil-295122222/) | [Twitter](https://twitter.com/yourhandle)
+- 😄 Pronouns: He/Him
 
-📫 You can connect with me on my GitHub profile, where you can find my latest projects and contact information. Alternatively, you can drop me an email at jonasbingil2@gmail.com, or reach out to me on LinkedIn. I'm always excited to chat with other frontend developers, so don't hesitate to get in touch!
+<!-- Technologies and Tools -->
+## 🛠️ Technologies and Tools
 
-<!---
-Naphzterjones - Self-Taught Frontend Developer
-Hi, I'm Naphzterjones, a self-taught frontend developer who is passionate about creating beautiful and user-friendly websites and applications. In this README file, I'll tell you a bit about my journey as a developer, my skills, and my experience so far.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-My Journey
-I started learning frontend development about a year ago, and I've been hooked ever since. I began by watching online tutorials, reading documentation, and building small projects on my own. Over time, I started working on more complex projects and challenging myself to learn new technologies.
+<!-- Portfolio and GitHub Repos -->
+## 🌐 Check Out My Work
 
-My Skills
-As a self-taught developer, I've had to be resourceful and adaptable. Here are some of the skills and technologies that I'm proficient in:
+- 🚀 [Portfolio Website](https://www.yourportfolio.com)
+- 📁 [GitHub Repositories](https://github.com/Naphzterjones?tab=repositories)
+- 🎨 [CodePen](https://codepen.io/yourusername)
 
-HTML5 and CSS3
-JavaScript (ES6+)
-React and Vue.js
-Bootstrap and Tailwind CSS
-Git and GitHub
-I'm also passionate about UI/UX design, and I strive to create interfaces that are both beautiful and functional.
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
 
-My Experience
-Although I'm new to the industry, I've already had the opportunity to work on some interesting projects. Here are a few highlights from my experience:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naphzterjones&show_icons=true&theme=dark)
 
-Built a simple e-commerce website using React and Redux, which allowed me to practice my skills in state management and API integration.
-Collaborated with a local nonprofit to build a donation platform using Vue.js and Stripe. This project gave me the opportunity to work on a real-world application and make a positive impact in my community.
-Currently working on a personal project to build a weather app using React and the OpenWeatherMap API.
-Let's Connect
-I'm always looking for opportunities to collaborate with other developers and build new projects. If you're interested in working with me or just want to chat about frontend development, feel free to reach out to me via email or LinkedIn. I'm excited to connect with other developers and continue growing my skills!
---->
+<!-- Let's Connect -->
+## 🎉 Let's Connect
+
+I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
